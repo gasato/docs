@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Asato;Carlos;Gabriel;;
+FN:Carlos Gabriel Asato
+ORG: Servicio Geológico Minero Argentino
+TITLE: Lic. en Ciencias Geológicas
+NOTE: Geoscience information specialist (remote sensing, RDBM, GIS & data interoperability); Interdisciplinary team collaboration specialist; System thinking
+PHOTO: https://avatars.githubusercontent.com/u/4452092?v=4
+EMAIL;TYPE=PREF,INTERNET:gabriel.asato@segemar.gov.ar
+ADR;TYPE=WORK:;;Avenida General Paz 5445 Edificio 25;San Martín;Provincia de Buenos Aires;B1650WAB;Argentina
+URL:https://www.segemar.gov.ar
+END:VCARD
